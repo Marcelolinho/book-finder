@@ -7,7 +7,7 @@ export interface Book {
     author: Author
     platform: string,
     thumbnail: string,
-},
+}
 
 export interface Author {
     

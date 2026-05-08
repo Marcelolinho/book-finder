@@ -1,1 +1,3 @@
-const BASE_URL=
+import { OPEN_LIBRARY_BASE_URL } from '@env';
+
+const BASE_URL = OPEN_LIBRARY_BASE_URL
